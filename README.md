@@ -1,6 +1,6 @@
 # Customer Complaint Dashboard 📊
 
-This repository hosts the **Customer Complaint Dashboard**, a data-driven tool for visualizing and analyzing customer complaint trends. It helps organizations identify key issues, optimize service channels, and enhance customer satisfaction.
+This is a **Customer Complaint Dashboard**, that visualizes and analyzes customer complaint trends. It helps organizations identify key issues, optimize service channels, and enhance customer satisfaction. Made with Tableau
 
 ## Key Features 🌟
 
